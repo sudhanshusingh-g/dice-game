@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #384242;
+}
+
+h1 {
+  margin: 24px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #ffffff;
+}
+
+p {
+  font-size: 2rem;
+  color: #ffffff;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+img {
+  width: 80%;
+}
+footer{
+  text-align: center;
+  margin: 24px;
+}
+button {
+  margin: 16px;
+  padding: 14px;
+  text-align: center;
+  width: 500px;
+  background-color: #ffffff;
+  border:none;
+  border-radius: 8px;
+  font-weight: 800;
+  font-family: 'IBM Plex Serif', serif;
+  cursor: pointer;
+}
